@@ -72,6 +72,8 @@
 
 ## 5. 선행기술 선언 및 라이선스 (Prior Art Declaration & License)
 
+시스템 연계: 본 기계적 생존 구조(Type B/S)는 chiplet-apu-multi-system-survival-architecture의 분산 관제(CCS) 및 CWP-Battery-Swap의 전원 생존 구조와 결합되어 완전한 무중단 스테이션으로 동작한다.
+
 본 아이디어는 공공의 선행기술(Prior Art)로 공유되며, 상기 기술된 수치 범위 및 변형 형태를 포함하여 누구나 자유롭게 참조, 확장, 상업적 제품 구현에 활용할 수 있습니다.
 
 * **라이선스:** CC BY 4.0 / deundeuni
