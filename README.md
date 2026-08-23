@@ -72,6 +72,8 @@ Applies the same self-alignment principle as the Heavy platform, light-weighted 
 
 ## 5. Prior Art Declaration and License
 
+System Integration: This mechanical survival structure (Type B/S) operates as a complete zero-downtime station when combined with the distributed control (CCS) of chiplet-apu-multi-system-survival-architecture and the power survival structure of CWP-Battery-Swap.
+
 This idea is shared as public Prior Art. Including the numerical ranges and variations described above, anyone can freely reference, expand, and implement it commercially.
 
 * **License:** CC BY 4.0 / deundeuni
